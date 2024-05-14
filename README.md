@@ -12,9 +12,9 @@ Artificial Intelligence Generated Content
 [pix2pix]:Image-to-Image Translation with Conditional Adversarial Networks[2018](https://arxiv.org/abs/1611.07004)   
 [MUNIT]:Multimodal Unsupervised Image-to-Image Translation[2018](https://arxiv.org/abs/1804.04732)  
 [StyleGAN]:  
-    [StyleGAN1]:[A Style-Based Generator Architecture for Generative Adversarial Networks][2018](https://arxiv.org/abs/1812.04948)   
-    [StyleGAN2]:[Analyzing and Improving the Image Quality of StyleGAN][2019](https://arxiv.org/pdf/1912.04958)  
-    [StyleGAN3]:[Alias-Free Generative Adversarial Networks][2021](https://arxiv.org/abs/2106.12423)  
+    -[StyleGAN1]:[A Style-Based Generator Architecture for Generative Adversarial Networks][2018](https://arxiv.org/abs/1812.04948)   
+    -[StyleGAN2]:[Analyzing and Improving the Image Quality of StyleGAN][2019](https://arxiv.org/pdf/1912.04958)  
+    -[StyleGAN3]:[Alias-Free Generative Adversarial Networks][2021](https://arxiv.org/abs/2106.12423)  
 [CycleGAN]:Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks[2020](https://arxiv.org/abs/1703.10593)    
 # txt-based   
 [Tansformer]  
