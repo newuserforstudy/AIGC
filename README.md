@@ -2,7 +2,8 @@
 Artificial Intelligence Generated Content
 
 # image-based
-[GAN]
+[GANs]  
+[GAN]: Generative Adversarial Networks
 # txt-based
 [Tansformer]
 [GPT]
